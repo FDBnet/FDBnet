@@ -1,6 +1,6 @@
 👋 Olá, sou @FDBnet
 
-Sou um programador (ao invés de desenvolvedor, era assim, quando me interessei pela área por volta dos 12 anos, que eu me referia a quem trabalhava com códigos para computador). Tenho foco em otimização e segurança de sistemas, apaixonado por encontrar soluções inovadoras para problemas complexos em tecnologia. Com experiência em múltiplas linguagens de programação e plataformas, meu objetivo é sempre melhorar o desempenho e a segurança dos sistemas que desenvolvo.
+Sou um programador (ao invés de desenvolvedor, pois era assim, quando me interessei pela área por volta dos 12 anos, que eu me referia a quem trabalhava com códigos para computador). Tenho foco em otimização e segurança de sistemas, apaixonado por encontrar soluções inovadoras para problemas complexos em tecnologia. Com experiência em múltiplas linguagens de programação e plataformas, meu objetivo é sempre melhorar o desempenho e a segurança dos sistemas que desenvolvo.
 
 
 ...
