@@ -1,6 +1,6 @@
 # 👋 Olá, sou o Rodrigo (@FDBnet) #
 
-Refiro a mim como um _programador_ (ao invés de desenvolvedor, pois era assim, quando me interessei pela área por volta dos 12 anos, que eu me referia a quem trabalhava com códigos para computador). Tenho foco em otimização e segurança de sistemas, apaixonado por encontrar soluções inovadoras para problemas complexos em tecnologia. Com experiência em múltiplas linguagens de programação e plataformas, meu objetivo é sempre melhorar o desempenho e a segurança dos sistemas que desenvolvo.
+Refiro a mim como um _programador_ (ao invés de desenvolvedor, pois era assim, quando me interessei pela área por volta dos meus 12 anos, que me referia a quem trabalhava com códigos para computador). Tenho foco em otimização e segurança de sistemas, apaixonado por encontrar soluções inovadoras para problemas complexos em tecnologia. Com experiência em múltiplas linguagens de programação e plataformas, meu objetivo é sempre melhorar o desempenho e a segurança dos sistemas que desenvolvo.
 
 ## 👀 Interesses ##
 
@@ -30,6 +30,7 @@ Refiro a mim como um _programador_ (ao invés de desenvolvedor, pois era assim, 
 
 - Projetos que visam a disponibilização de dados (desde que legais) pela web.
 
+- Promover a Web com códigos limpos e conteúdos escritos em Português do Brasil `(pt-BR)`
 
 
 ## 📫 Como Falar Comigo ##
