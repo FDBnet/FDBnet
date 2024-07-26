@@ -1,61 +1,48 @@
-👋 Olá, sou o Rodrigo (@FDBnet)
-
-[![My Skills](https://skillicons.dev/icons?i=php,js,mysql,css,html,codepen,cloudflare,bootstrap,wordpress,windows&theme=light)](https://skillicons.dev)
+# 👋 Olá, sou o Rodrigo (@FDBnet)#
 
 Refiro a mim como um _programador_ (ao invés de desenvolvedor, pois era assim, quando me interessei pela área por volta dos 12 anos, que eu me referia a quem trabalhava com códigos para computador). Tenho foco em otimização e segurança de sistemas, apaixonado por encontrar soluções inovadoras para problemas complexos em tecnologia. Com experiência em múltiplas linguagens de programação e plataformas, meu objetivo é sempre melhorar o desempenho e a segurança dos sistemas que desenvolvo.
 
+## 👀 Interesses ##
 
-...
+[![My Skills](https://skillicons.dev/icons?i=php,js,mysql,css,html,codepen,cloudflare,bootstrap,wordpress,windows&theme=light)](https://skillicons.dev)
 
-- 👀 Interesses
+- Desenvolvimento Web: Especialmente interessado em back-end e segurança.
 
-Desenvolvimento Web: Especialmente interessado em back-end e segurança.
+- Criptografia e Segurança de Dados: Focado em implementar soluções robustas de segurança.
 
-Criptografia e Segurança de Dados: Focado em implementar soluções robustas de segurança.
-
-Otimização de Performance: Apaixonado por tornar os sistemas mais rápidos e eficientes.
-
-
-...
+- Otimização de Performance: Apaixonado por tornar os sistemas mais rápidos e eficientes.
 
 
-- 🌱 Atualmente Estou Aprendendo
 
-Desenvolvimento de Aplicações Escaláveis: Ampliando conhecimentos em arquiteturas de alta disponibilidade.
+## 🌱 Atualmente Estou Aprendendo ##
 
-Tecnologias de Contêineres: Como Docker e Kubernetes para melhorar o deployment e a escalabilidade.
+- Desenvolvimento de Aplicações Escaláveis: Ampliando conhecimentos em arquiteturas de alta disponibilidade.
 
+- Tecnologias de Contêineres: Como Docker e Kubernetes para melhorar o deployment e a escalabilidade.
 
-...
-
-
-- 💞️ Buscando Colaborar Em
-
-Projetos que promovem práticas seguras e eficientes.
-
-Projetos que visam a disponibilização de dados (desde que legais) pela web.
+- Usar AWS
 
 
-...
+
+## 💞️ Buscando Colaborar Em ##
+
+- Projetos que promovem práticas seguras e eficientes.
+
+- Projetos que visam a disponibilização de dados (desde que legais) pela web.
 
 
-- 📫 Como Falar Comigo
+
+## 📫 Como Falar Comigo ##
   
-E-mail: falecom@fortalezadigital.net
+- E-mail: falecom@fortalezadigital.net
 
 
-...
-
-- 😄 Pronomes
+## 😄 Pronomes ##
   
-Ele/Dele
+- Ele/Dele/Cabra/Mano
 
 
-
-...
-
-
-- Um Pouco Mais Sobre Mim
+## Um Pouco Mais Sobre Mim ##
 
 Sou motivado pela inovação constante e pelo aprendizado contínuo. Valorizo a colaboração em equipe e estou sempre buscando novas oportunidades para ajudar a comunidade de desenvolvedores. Acredito firmemente que a tecnologia pode transformar vidas e dedico-me a fazer isso de maneira ética e eficaz.
 
