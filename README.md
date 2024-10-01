@@ -4,7 +4,7 @@ Refiro a mim como um _programador_ (ao invés de desenvolvedor, pois era assim, 
 
 ## 👀 Interesses ##
 
-[![My Skills](https://skillicons.dev/icons?i=php,js,mysql,css,html,codepen,cloudflare,bootstrap,wordpress,windows&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,js,mysql,css,html,python,codepen,cloudflare,bootstrap,wordpress,windows&theme=light)](https://skillicons.dev)
 
 - Desenvolvimento Web: Especialmente interessado em back-end e segurança.
 
