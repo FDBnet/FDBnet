@@ -20,8 +20,6 @@ Refiro a mim como um _programador_ (ao invés de desenvolvedor, pois era assim, 
 
 - Desenvolvimento de Aplicações Escaláveis: Ampliando conhecimentos em arquiteturas de alta disponibilidade.
 
-- Tecnologias de Contêineres: Como Docker e Kubernetes para melhorar o deployment e a escalabilidade.
-
 - Usar AWS
 
 
