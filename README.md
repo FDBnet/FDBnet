@@ -30,14 +30,6 @@ Refiro a mim como um _programador_ (ao invés de desenvolvedor, pois era assim, 
 
 - Projetos que visam a disponibilização de dados (desde que legais) pela web.
 
-- Promover a Web com códigos limpos e conteúdos escritos em Português do Brasil `(pt-BR)`
-
-
-## 📫 Como Falar Comigo ##
-  
-- E-mail: falecom@fortalezadigital.net
-
-
 ## 😄 Pronomes ##
   
 - Ele/Dele/Cabra/Mano
@@ -45,7 +37,7 @@ Refiro a mim como um _programador_ (ao invés de desenvolvedor, pois era assim, 
 
 ## Um Pouco Mais Sobre Mim ##
 
-Sou motivado pela inovação constante e pelo aprendizado contínuo. Valorizo a colaboração em equipe e estou sempre buscando novas oportunidades para ajudar a comunidade de desenvolvedores. Acredito firmemente que a tecnologia pode transformar vidas e dedico-me a fazer isso de maneira ética e eficaz.
+Estou motivado pela inovação constante e pelo aprendizado contínuo. Valorizo a colaboração em equipe e estou buscando novas oportunidades para ajudar a comunidade de desenvolvedores. Acredito firmemente que a tecnologia pode transformar vidas e dedico-me a fazer isso de maneira ética e eficaz.
 
 <!---
 FDBnet/FDBnet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
