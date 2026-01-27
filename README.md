@@ -2,7 +2,7 @@
 
 # 👋 Olá, sou o Rodrigo S. M. (@FDBnet) #
 
-Refiro a mim como um _programador_ (ao invés de desenvolvedor, pois era assim, quando me interessei pela área por volta dos meus 12 anos, que me referia a quem trabalhava com códigos para computador). Tenho foco em otimização e segurança de sistemas, apaixonado por encontrar soluções inovadoras para problemas complexos em tecnologia. Com experiência em múltiplas linguagens de programação e plataformas, meu objetivo é sempre melhorar o desempenho e a segurança dos sistemas que desenvolvo.
+Refiro a mim como um _programador_ (ao invés de desenvolvedor, pois era assim, quando me interessei pela área por volta dos meus 12 anos, que me referia a quem trabalhava com códigos para computador). Tenho foco em otimização e segurança de sistemas, apaixonado por encontrar soluções inovadoras para problemas complexos em tecnologia. Com 'alguma' experiência em linguagens de programação e plataformas, gosto de melhorar o desempenho e a segurança dos sistemas em que trabalho.
 
 ## 👀 Interesses ##
 
