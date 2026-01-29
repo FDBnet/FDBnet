@@ -2,7 +2,7 @@
 
 # 👋 Olá, sou o Rodrigo S. M. (@FDBnet) #
 
-O D-us de Noah e Yacov, Rei do Universo, Bendijo Seja, tem muito me abençoadado! Por volta de meus 12 anos, comecei a me encantar pelo desenvolvimento de softwares. Graças ao Eterno, atualmente trabalho nesta área, onde sou apaixonado por encontrar soluções inovadoras para problemas complexos em tecnologia. Possuo eperiência de aproximadamente 14 anos em desenvolvimento com as linguagens PHP e Javascript. Gosto de melhorar o desempenho e a segurança dos sistemas em que trabalho.
+O D-us de Noah e Yacov, Rei do Universo, Bendijo Seja Ele, tem muito me abençoadado! Por volta de meus 12 anos, comecei a me encantar pelo desenvolvimento de softwares. Graças ao Eterno, atualmente trabalho nesta área, onde sou apaixonado por encontrar soluções inovadoras para problemas complexos em tecnologia. Possuo eperiência de aproximadamente 14 anos em desenvolvimento com as linguagens PHP e Javascript. Gosto de melhorar o desempenho e a segurança dos sistemas em que trabalho.
 
 ## 👀 Interesses ##
 
