@@ -6,7 +6,7 @@ O **D-us de Noah e Yacov, Rei do Universo, Bendito Seja Ele**, tem muito me aben
 
 ## 👀 Interesses ##
 
-[![My Skills](https://skillicons.dev/icons?i=php,js,mysql,css,html,python,codepen,cloudflare,bootstrap,wordpress,windows,linux&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,js,mysql,html,css,bootstrap,python,nginx,redis,cloudflare,git,github,githubactions,vscode,bash,debian,linux,obs&theme=light)](https://skillicons.dev)
 
 - Desenvolvimento Web: Especialmente interessado em back-end e segurança.
 
