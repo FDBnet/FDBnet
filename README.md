@@ -6,7 +6,7 @@
 
 ### A história, contada por Rodrigo
 
-O **D-us de Noach e de Yaakov, Rei do Universo, Bendito Seja Ele**, tem me abençoado muito — e, com isso, também a empresa. Por volta dos meus 12 anos, quando eu nem sonhava em ter uma empresa, comecei a me encantar pelo desenvolvimento de software. Graças ao Eterno, Criador dos Céus e da Terra, trabalho nessa área há cerca de 14 anos, principalmente com **PHP** e **JavaScript**, com foco em desempenho e segurança.
+O **D-us de Noach e de Yaakov, Rei do Universo, Bendito Seja Ele**, tem me abençoado muito — e, com isso, também a empresa. Por volta dos meus 13 anos (em 2011), quando eu nem sonhava em ter uma empresa, comecei a me encantar pelo desenvolvimento de software. Graças ao Eterno, Criador dos Céus e da Terra, trabalho nessa área há cerca de 6 anos, principalmente com **PHP** e **JavaScript**, com foco em desempenho e segurança.
 
 Sou o fundador da **Fortaleza Digital da Bahia (FDB)** — é daí que vem o nome deste perfil.
 
